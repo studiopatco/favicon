@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square310x310logo src="https://cdn.statically.io/gh/GITHUB-NAME/favicon/main/mstile-310x310.png"/>
+            <square150x150logo src="https://cdn.statically.io/gh/studiopatco/favicon/main/mstile-150x150.png"/>
             <TileColor>#495e35</TileColor>
         </tile>
     </msapplication>
